@@ -74,7 +74,7 @@ const Products = () => {
                                         <h1 className='font-bold'>Product name: {product.name}</h1>
                                         <span className='text-[1px]'>Code: {product.code}</span>
                                     </div>
-                                    <h1 className='text-right px-2 py-3 font-bold text-red-600'>฿1,000</h1>
+                                    <h1 className='text-right px-2 py-3 font-bold text-red-600'>{product.price}</h1>
                                 </div>
                             ))
                         ) : (
