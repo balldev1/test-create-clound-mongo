@@ -1,0 +1,17 @@
+1. upload Product 
+-upload image 
+[]
+-productname 
+-code
+-price
+
+ Develop web applications with React, NodeJS, and Mongo
+
+
+Requirement:
+Use ReactJS or NextJS.
+Can use any frontend framework and library. (Can use the styled-components would be receiving special consideration.)
+For more detail please follow this figma link: https://www.figma.com/file/R7b0xL3CNsrOis4CqtLBLd/Upload-Product?type=design&node-id=0%3A1&t=cTfF69GbkQ3GLT3u-1 
+The search box on the product list page is an optional requirement, but it has extra points ( Search Product by name and code).
+An optional requirement: Create a product Detail page without design from UXUI (freestyle add-ons function).
+Store product’s data in a local public folder.
